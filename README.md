@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="profile.png" width="55%" />
+  <img src="profile.png" width="50%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Shreyash Ashok Deore</h1>
@@ -43,7 +43,7 @@
 ## 🔥 My Power Levels (Projects)
 | Project | Description |
 |--------|-------------|
-| ⚔️ **Solo-Leveling Inspired Portfolio** | Stylish anime-themed portfolio website |
+
 | 💻 **C++ DSA Practice Repo** | My grindset in algorithms & problem solving |
 | 🌐 **Frontend Projects** | HTML, CSS, JS, React cool mini-projects |
 | 🔗 **Networking Mini Labs** | Simple setups for practical CN understanding |
