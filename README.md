@@ -43,7 +43,7 @@
 ## 🔥 My Power Levels (Projects)
 | Project | Description |
 |--------|-------------|
-
+|--------|-------------|
 | 💻 **C++ DSA Practice Repo** | My grindset in algorithms & problem solving |
 | 🌐 **Frontend Projects** | HTML, CSS, JS, React cool mini-projects |
 | 🔗 **Networking Mini Labs** | Simple setups for practical CN understanding |
